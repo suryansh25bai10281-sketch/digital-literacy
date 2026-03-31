@@ -1,0 +1,16 @@
+'Stay Safe Online' Checklist
+1. Enable Multi-Factor Authentication (MFA): Always use MFA (preferably via an authenticator app rather than SMS) for your university portal, Gmail, and social media accounts.
+2. Verify UPI "Request Money" Traps: Remember that entering your UPI PIN is only for sending money, never for receiving it. If someone asks you to enter a PIN to "receive a scholarship or prize," it is a scam.
+3. Secure Your QR Code Interactions: Never scan a random QR code sent via WhatsApp or Telegram to "verify" your identity or claim a reward. Scammers use these to trigger unauthorized debits from your linked bank account.
+4. Audit App Permissions: Regularly check your smartphone settings. Deny "Contacts," "Gallery," and "Location" access to apps that don’t strictly require them, especially third-party "instant loan" apps.
+5. Avoid Public Wi-Fi for Banking: Never log in to your bank portal or UPI app while connected to free campus or cafe Wi-Fi. Use your mobile data or a trusted VPN for sensitive transactions.
+6. Practice "Link Skepticism": Do not click on shortened URLs (e.g., bit.ly or tinyurl) sent via SMS claiming your "KYC is expired" or your "Electricity will be cut off." Check the official service provider's app instead.
+7. Identify HTTPS and Padlocks: Before entering your student credentials or credit card details on a website, ensure the URL begins with https:// and shows a closed padlock icon in the browser bar.
+8. Use a Webcam Cover: When not in an online lecture or interview, keep your laptop webcam covered. Malicious software (RATs) can be used to spy on students and attempt sextortion.
+
+How to Report Cybercrime in India
+If you have been a victim of a digital scam, financial fraud, or online harassment, immediate reporting is vital to freezing stolen funds.
+* National Cyber Crime Reporting Portal: Visit cybercrime.gov.in to file a formal complaint.
+* National Helpline Number: Dial 1930 immediately for financial frauds (The "Golden Hour" rule: reporting within 1–2 hours increases the chance of recovering lost money).
+* Local Assistance: You can also visit the nearest Cyber Cell at your local police station.
+
